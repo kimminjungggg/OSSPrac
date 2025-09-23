@@ -3,3 +3,5 @@
 ## email : minmin124@dgu.ac.kr
 
 - OSS practice with Github
+- Date :2025. 09. 23. 15:00
+
